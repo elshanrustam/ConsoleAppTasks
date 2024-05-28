@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\ConsoleAppTasks\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{48934B29-4E61-44AC-8153-5EFC17BCF09B}|FileHandling\\FileHandling.csproj|c:\\users\\elsha\\onedrive\\documents\\backend projects\\consoleapptasks\\filehandling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48934B29-4E61-44AC-8153-5EFC17BCF09B}|FileHandling\\FileHandling.csproj|solutionrelative:filehandling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9588CE-8DC4-48A4-9F2D-0D11E079B7A2}|GenericsFinalTask\\GenericsFinalTask.csproj|c:\\users\\elsha\\onedrive\\documents\\backend projects\\consoleapptasks\\genericsfinaltask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF9588CE-8DC4-48A4-9F2D-0D11E079B7A2}|GenericsFinalTask\\GenericsFinalTask.csproj|solutionrelative:genericsfinaltask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8E7F313-E11A-4FDB-BAC0-7A64BBC0CB38}|PizzaShop\\PizzaShop.csproj|c:\\users\\elsha\\onedrive\\documents\\backend projects\\consoleapptasks\\pizzashop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8E7F313-E11A-4FDB-BAC0-7A64BBC0CB38}|PizzaShop\\PizzaShop.csproj|solutionrelative:pizzashop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECCADA44-F71C-4A42-A3D0-69E5CA9EE3EA}|ConditionsTask\\ConditionsTask.csproj|c:\\users\\elsha\\onedrive\\documents\\backend projects\\consoleapptasks\\conditionstask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECCADA44-F71C-4A42-A3D0-69E5CA9EE3EA}|ConditionsTask\\ConditionsTask.csproj|solutionrelative:conditionstask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{de1fc918-f32e-4dd7-a915-1792a051f26b}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\ConsoleAppTasks\\FileHandling\\Program.cs",
+              "RelativeDocumentMoniker": "FileHandling\\Program.cs",
+              "ToolTip": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\ConsoleAppTasks\\FileHandling\\Program.cs",
+              "RelativeToolTip": "FileHandling\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T22:26:10.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\ConsoleAppTasks\\GenericsFinalTask\\Program.cs",
+              "RelativeDocumentMoniker": "GenericsFinalTask\\Program.cs",
+              "ToolTip": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\ConsoleAppTasks\\GenericsFinalTask\\Program.cs",
+              "RelativeToolTip": "GenericsFinalTask\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T22:26:02.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\ConsoleAppTasks\\PizzaShop\\Program.cs",
+              "RelativeDocumentMoniker": "PizzaShop\\Program.cs",
+              "ToolTip": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\ConsoleAppTasks\\PizzaShop\\Program.cs",
+              "RelativeToolTip": "PizzaShop\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T22:25:43.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\ConsoleAppTasks\\ConditionsTask\\Program.cs",
+              "RelativeDocumentMoniker": "ConditionsTask\\Program.cs",
+              "ToolTip": "C:\\Users\\elsha\\OneDrive\\Documents\\Backend Projects\\ConsoleAppTasks\\ConditionsTask\\Program.cs",
+              "RelativeToolTip": "ConditionsTask\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T22:25:19.572Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
